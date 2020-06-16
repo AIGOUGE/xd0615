@@ -13,19 +13,19 @@ GIT使用
 7.使用git commit -m命令设置注释
 8.使用git push命令将本地项目更新提交到github
 
-注释（上网搜索）
+注释（上网搜索）:
 1.安装git工具
 2.设置ssh-keygen（让github识别电脑）, 直接访问github
 3.git的基本操作
 
-常用命令 
+常用命令 :
 git clone
 cat 文件名
 git add 文件名
 git commit -m “注释内容”
 ：wq（退出）
 
-课程所需其他软件、网站
+课程所需其他软件、网站:
 Friting
 Arduino arduino.cc
 
